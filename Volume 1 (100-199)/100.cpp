@@ -1,5 +1,4 @@
 //The 3n + 1 problem
-//Time limit: 3.000 seconds
 #include <iostream>
 
 using namespace std;
